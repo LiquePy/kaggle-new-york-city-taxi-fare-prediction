@@ -1,0 +1,1 @@
+1208274 rows of training data are analyzed for zipcodes, cities and states -> merge them
